@@ -106,6 +106,8 @@ and don't forget to credit, thank you for the inspiration :
 </tr>
 </table>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=stars&include_all_commits=true)
+
 <!--
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
